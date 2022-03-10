@@ -17,7 +17,7 @@
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
-          "url": "http:/https://github.com/shankerram3/sanbox-bootloader/blob/main/sandbox.zip",
+          "url": "https://github.com/shankerram3/sanbox-bootloader/blob/main/sandbox.zip?raw=true",
           "archiveFileName": "sandbox.zip",
           "checksum": "7283e07701b8b00cc409aaf8b57ad6a4",
           "size": "5660672",
