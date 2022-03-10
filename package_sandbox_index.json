@@ -17,12 +17,12 @@
           "help": {
             "online": "http://www.arduino.cc/en/Reference/HomePage"
           },
-          "url": "https://github.com/shankerram3/sanbox-bootloader/blob/main/sandbox.zip?raw=true",
+          "url": "https://github.com/shankerram3/sanbox-bootloader/blob/main/sandbox%20v1.1.zip?raw=true",
           "archiveFileName": "sandbox.zip",
-          "checksum": "SHA-256:3F938A6FBD4B7FB237A62149DD4F1BD4D9E2A72B6A14CD4B41BDBE1A64C2FEFD",
+          "checksum": "SHA-256:C0E3B5353CD477333917A8C239170F45613741B23BFC5E70996FA29452CA33C6",
           "size": "5660672",
           "boards": [
-            {"name": "Arduino Uno"}
+            {"name": "sandbox basic"}
           ],
           "toolsDependencies": [
             {
