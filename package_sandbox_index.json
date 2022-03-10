@@ -19,7 +19,7 @@
           },
           "url": "https://github.com/shankerram3/sanbox-bootloader/blob/main/sandbox.zip?raw=true",
           "archiveFileName": "sandbox.zip",
-          "checksum": "7283e07701b8b00cc409aaf8b57ad6a4",
+          "checksum": "SHA-256:3F938A6FBD4B7FB237A62149DD4F1BD4D9E2A72B6A14CD4B41BDBE1A64C2FEFD",
           "size": "5660672",
           "boards": [
             {"name": "Arduino Uno"}
